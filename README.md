@@ -6,6 +6,9 @@ Ruby on Rails 5アプリケーションプログラミング
 # web tech
 Real World HTTP ―歴史とコードに学ぶインターネットとウェブ技術
 
+# computer science
+プログラムはなぜ動くのか
+
 # other
 リーダブルコード
 
