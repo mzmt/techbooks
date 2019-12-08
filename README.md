@@ -29,3 +29,8 @@ Real world HTTP
 ハイパフォーマンス・ブラウザネットワーキング
 
 プロを目指す人のためのRuby入門
+
+# 開発手法
+SCRUM BOOT CAMP THE BOOK
+西村 直人
+https://www.amazon.co.jp/dp/4798129712/ref=cm_sw_r_tw_dp_U_x_b6r7DbAC9CHPR
